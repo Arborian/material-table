@@ -85,7 +85,7 @@
     "jspdf": "2.1.0",
     "jspdf-autotable": "3.5.9",
     "prop-types": "15.6.2",
-    "react-beautiful-dnd": "13.0.0",
+    "react-beautiful-dnd": ">= 13.0.0",
     "react-double-scrollbar": "0.0.15"
   },
   "peerDependencies": {
